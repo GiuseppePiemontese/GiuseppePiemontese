@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74179141/129973435-97e67f74-e4cc-4778-a842-836f31a705f4.png" align="right" width="400">
+<img src="https://user-images.githubusercontent.com/74179141/129973435-97e67f74-e4cc-4778-a842-836f31a705f4.png" align="right" width="450">
 
 ## Hi, i'm Giuseppe Piemontese
 
