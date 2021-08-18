@@ -9,7 +9,7 @@ at the University of Bologna.
 I like video games, DIY, automation and memes.
 
 >"Is better to spend 3 weeks writing a program <br/>
-that solves a problem instead of solving it in 5 minutes."* <br/>
+that solves a problem instead of solving it in 5 minutes." <br/>
 　　　　　　　　　　　　　　　　　　Myself.
                   
 <!-- <img src="https://user-images.githubusercontent.com/74179141/129974236-b01e2c51-d9c7-4720-98a7-2ff8833820ad.png" width="30" align="left"> 
