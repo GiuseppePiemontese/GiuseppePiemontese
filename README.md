@@ -8,7 +8,7 @@ at the University of Bologna.
 
 I like video games, DIY, automation and memes.
 
-*"is Better to spend 3 weeks writing a program <br/>
+*"Is better to spend 3 weeks writing a program <br/>
 that solves a problem instead of solving it in 5 minutes."* <br/>
 　　　　　　　　　　　　　　　　　　Myself.
                   
