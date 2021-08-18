@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74179141/129973435-97e67f74-e4cc-4778-a842-836f31a705f4.png" align="right" width="450">
 
-## Hi, i'm Giuseppe Piemontese
+# Hi, i'm Giuseppe Piemontese
 
 
 i'm a student of computer science <br/>
@@ -8,7 +8,7 @@ at the University of Bologna.
 
 I like video games, DIY, automation and memes.
 
-*"Is better to spend 3 weeks writing a program <br/>
+>"Is better to spend 3 weeks writing a program <br/>
 that solves a problem instead of solving it in 5 minutes."* <br/>
 　　　　　　　　　　　　　　　　　　Myself.
                   
